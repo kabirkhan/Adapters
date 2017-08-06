@@ -12,9 +12,9 @@
 
 **feasibility**: manual download possible
 
-**data format**: ?
+**data format**: `HTML` (easily parsable structure)
 
-**content**: ?
+**content**: https://www.facebook.com/help/405183566203254
 
 ## LinkedIn
 
