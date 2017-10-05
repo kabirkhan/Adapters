@@ -18,11 +18,11 @@
 
 ## LinkedIn
 
-**feasibility**: ?
+**feasibility**: [manual download](https://www.linkedin.com/psettings/member-data) possible
 
-**data format**: ?
+**data format**: `CSV` multiple files for each content type in .zip
 
-**content**: ?
+**content**: profile info, skills, connections, education, positions, projects, messages, recommendations
 
 ## Google Fit
 
